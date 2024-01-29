@@ -13,8 +13,8 @@ python3 network.py
 
 Install for Kali Linux
 ```
-pkg install git
-pkg install python3
+sudo apt install git
+sudo apt install python3
 git clone https://github.com/yuhertz/network
 cd network
 sudo python3 network.py
